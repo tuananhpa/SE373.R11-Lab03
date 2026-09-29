@@ -1,0 +1,11 @@
+# Ba demo buổi 03. Không cần khoá API: model giả lập ở lib/model_gia.py.
+langchain>=1.0
+langchain-core>=1.0
+python-dotenv>=1.0
+
+# Backend model thật dùng bởi ba file model_*.py:
+langchain-openai>=1.0
+
+# Các provider khác (nếu đổi backend):
+# langchain-anthropic>=1.0
+# langchain-google-genai>=3.0
